@@ -1,7 +1,7 @@
 
 # Custom Homepage
 
-- Just a quiet repo containing the code for my homepage available at [hub.evilpanda.me](https://hub.evilpanda.me/) 
+- Just a quiet repo containing the code for my homepage available at [hub.evilpanda.live](https://hub.evilpanda.live/) 
 - Please ignore my terrible code lol
 
 
